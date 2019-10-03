@@ -4,7 +4,7 @@ This is a simple 2d endless platformer game that I have created. This is to help
 Using WASD, to control the player.
 ### Game Objectives
 Avoid the wall and navigating over obstacles to get as much point as you can.
-Code Sample
+###### Code Sample
 ```csharp
 //To get points adding them per frame.
 GameManager manager;
